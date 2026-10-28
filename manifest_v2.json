@@ -3,7 +3,7 @@
     "id": "979884106337",
     "restype": "watchface",
     "name": "RAINBOW SLINKY",
-    "description": "RAINBOW SLINKY_彩虹弹簧_编织时间\n时间藏在彩虹弹簧里, 日常看看也挺好玩.\n目前支持小米手环 10 / 11（含 NFC）\n由于 AstroBox 平台限制, 无法上传动态照片, 想看实际效果以及具体怎么使用的详细说明, 可以移步小红书 @叫我Brin就好",
+    "description": "RAINBOW SLINKY_彩虹弹簧_编织时间\n时间藏在彩虹弹簧里, 做的一个纯属娱乐的表盘\n目前支持小米手环 10 / 11（含 NFC）\n由于 AstroBox 平台限制, 无法上传动态照片, 想看实际效果以及具体怎么使用的详细说明, 可以移步小红书 @叫我Brin就好",
     "preview": [
       "media/03-预览-翻转.png",
       "media/04-预览-息屏.png"
