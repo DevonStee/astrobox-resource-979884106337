@@ -2,7 +2,7 @@
   "item": {
     "id": "979884106337",
     "restype": "watchface",
-    "name": "RAINBOW SLINKY",
+    "name": "彩虹弹簧 RAINBOW SLINKY",
     "description": "RAINBOW SLINKY_彩虹弹簧_编织时间\n时间藏在彩虹弹簧里, 做的一个纯属娱乐的表盘\n目前支持小米手环 10 / 11 / 9 Pro / 10 Pro / REDMI Watch 6（手环 10 / 11 含 NFC）\n更新：做了手环 9 Pro / 10 Pro 版，也加了 REDMI Watch 6 版\n由于 AstroBox 平台限制, 无法上传动态照片, 想看实际效果以及具体怎么使用的详细说明, 可以移步小红书 @叫我Brin就好",
     "preview": [
       "media/00-预览-RW6-Pro.webp",
@@ -26,6 +26,21 @@
     }
   ],
   "downloads": {
+    "xmrw6": {
+      "version": "0.0.1",
+      "file_name": "downloads/Rainbow Slinky RW6.face",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.0",
+          "content": "新增 REDMI Watch 6 支持"
+        },
+        {
+          "version": "0.0.1",
+          "content": "修正 REDMI Watch 6 屏幕四角内容被切的问题"
+        }
+      ]
+    },
     "xmb9p": {
       "version": "0.0.0",
       "file_name": "downloads/Rainbow Slinky PRO.face",
@@ -45,17 +60,6 @@
         {
           "version": "0.0.0",
           "content": "新增小米手环 9 Pro / 10 Pro 支持"
-        }
-      ]
-    },
-    "xmrw6": {
-      "version": "0.0.0",
-      "file_name": "downloads/Rainbow Slinky RW6.face",
-      "versionCode": 0,
-      "updatelogs": [
-        {
-          "version": "0.0.0",
-          "content": "新增 REDMI Watch 6 支持"
         }
       ]
     },
